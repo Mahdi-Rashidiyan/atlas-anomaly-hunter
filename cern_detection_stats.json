@@ -1,0 +1,6 @@
+{
+  "total_events": 50000,
+  "anomalies_detected": 2783,
+  "anomaly_rate": 5.566,
+  "features_used": 22
+}
